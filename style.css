@@ -1,0 +1,293 @@
+body{
+    background-color: rgb(240, 238, 238);
+}
+
+#nav{
+position: relative;
+height: 870px;
+
+
+
+}
+/* 
+#nav-img{
+
+    height: 80px;
+   
+} */
+
+#img-text{
+
+    position: absolute;
+    top: 40%;
+    left: 33%;
+    font-size: 22px;
+    color: white;
+    z-index: 1;
+}
+
+#nav-text1{
+    color: white;
+    position: absolute;
+    top: 49%;
+    left: 40%;
+    font-size: 22px ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#join-us{
+
+    background-color: rgb(228, 36, 36);
+    color: white;
+    position: absolute;
+    top: 59%;
+    left: 45%;
+    padding: 8px;
+    width: 140px;
+    font-family:  monospace;
+}
+
+#faith{
+
+    text-align: center;
+    font-family: sans-serif;
+}
+#box1{
+    display: inline-block;
+    width: 300px;
+    height: 270px;
+    text-align: center;
+    margin-right: 20px;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.para-text{
+    text-align: center;
+    
+}
+
+#box2{
+    display: inline-block;
+    width: 300px;
+    height: 270px;
+    text-align: center;
+    vertical-align: top;
+    margin-top: 20px;
+}
+
+/* .para-text1{
+    text-align: center;
+    
+} */
+
+#box3{
+    display: inline-block;
+    width: 300px;
+    height: 270px;
+    text-align: center;
+    margin-left: 35px;
+    vertical-align: top;
+    margin-top: 20px;
+}
+
+#add-venue{
+    width: 100%;
+    height: 130px;
+    background-color: rgb(228, 36, 36);
+    position: relative;
+}
+
+#time{
+    position: absolute;
+    top: 27%;
+    left: 110px;
+    line-height: 0.5;
+}
+#add-venue-text1{
+    color: white;
+    font-style: italic;
+    font-size: 14px;
+}
+#add-venue-text2{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
+
+#add{
+    position: absolute;
+    top: 27%;
+    left: 470px;
+    line-height: 0.5;
+    border-left: 1px solid white;
+    padding-left: 20px;
+}
+
+#read-more{
+
+    position: absolute;
+    top: 34%;
+    left: 1000px;
+    background-color: transparent;
+    border: 1px solid white;
+    text-shadow: none;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+#read-more a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+   
+}
+
+#venue{
+    position: relative;
+    left: 70px;
+    top: 30px;
+    background-color: white;
+    width: 700px;
+    border-radius: 3px;
+}
+
+.venue-all{
+    padding-left: 50px;
+    padding-top: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+#venue-text{
+    padding-left: 50px;
+}
+
+#venue-text1{
+    padding-left: 50px;
+    color: rgb(228, 36, 36);
+    font-style: italic;
+}
+
+#venue-text2{
+    padding-left: 50px;
+    padding-bottom: 50px;
+
+}
+
+
+#days{
+    display: inline-block;
+    background-color: rgb(228, 36, 36);
+ position: relative;
+ top: -210px;
+ left: 800px;
+ width: 400px;
+ height: 220px;
+ color: white;
+ border-radius:4px ;
+}
+
+#day{
+    display: inline-block;
+    line-height: 1px;
+    position: absolute;
+    top: 37%;
+    left: 40px;
+    border-right:1px solid white ;
+    padding-right: 10px;
+    
+    
+}
+
+#hours{
+    display: inline-block;
+    line-height: 1px;
+    position: absolute;
+    top: 37%;
+    left: 110px;
+    border-right:1px solid white ;
+    padding-right: 10px;
+}
+#min{
+    display: inline-block;
+    line-height: 1px;
+    position: absolute;
+    top: 37%;
+    left: 180px;
+    border-right:1px solid white ;
+    padding-right: 10px;
+
+}
+
+#sec{
+    display: inline-block;
+    line-height: 1px;
+    position: absolute;
+    top: 37%;
+    right: 100px;
+    
+
+}
+
+.num{
+
+    font-size: 26px;
+}
+.letters{
+    font-size: small;
+}
+#events{
+
+    background-color: white;
+    height: 600px;
+    margin-top: -150px;
+    position: relative;
+}
+
+#our-events{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#events-one{
+    display: inline-block;
+    position: absolute;
+    width: 300px;
+    margin-left: 90px;
+}
+
+#event-text1{
+    color:  rgb(228, 36, 36);
+    font-style: italic;
+}
+
+.Morning-gather{
+    line-height: 7px;
+}
+
+#event-text3{
+    margin-top: -30px;
+}
+
+#events2{
+
+    display: inline-block;
+    position: absolute;
+    left: 400px;
+    width: 300px;
+    margin-left: 90px;
+
+
+}
+
+#events3{
+
+    display: inline-block;
+    position: absolute;
+    left: 900px;
+    width: 300px;
+    margin-left: -30px;
+}
+
+
